@@ -149,4 +149,5 @@ Feedstock Maintainers
 =====================
 
 * [@jdmarques](https://github.com/jdmarques/)
+* [@rudispr](https://github.com/rudispr/)
 
