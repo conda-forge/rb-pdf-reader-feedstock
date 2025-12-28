@@ -1,5 +1,5 @@
 {% set name = "pdf-reader" %}
-{% set version = "2.15.0" %}
+{% set version = "2.15.1" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-    sha256: c5025750bec8de7b11cfd1d1ccc2b944d2782c3638cd15b5ee1531d1206c0886
+    sha256: 18c6a986a84a3117fa49f4279fc2de51f5d2399b71833df5d2bccd595c7068ce
 
 build:
   noarch: generic
